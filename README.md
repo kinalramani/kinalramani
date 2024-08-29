@@ -1,4 +1,4 @@
-### 👋 Hi there! I'm Kinal Ramani
+## 👋 Hi there! I'm Kinal Ramani
 
 ## 👀 My Interests:
 - Backend development and API design
