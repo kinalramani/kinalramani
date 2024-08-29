@@ -33,7 +33,7 @@ I’m developing **ConnectX**, a social media platform aimed at enhancing connec
 
 ## 📫 Get in Touch:
 - **LinkedIn:** [Kinal Ramani](https://www.linkedin.com/in/kinal-ramani)
-- **Email:** [kinalramani@example.com](mailto:kinalramani@example.com)
+- **Email:** [kinalramani14@gmail.com](mailto:kinalramani14@gmail.com)
 
 ## 🤝 Let's Collaborate:
 I’m always open to collaboration and contributions. If you’re interested in working together or contributing to any of my projects, feel free to reach out.
