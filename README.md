@@ -18,7 +18,10 @@ Here are some technologies and tools I frequently work with:
 - SQLAlchemy
 - JWT
 - Git
+- Github
 - Postman
+- SQL
+- Django Rest Framework
 
 ## 📂 Projects:
 
